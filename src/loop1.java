@@ -10,5 +10,6 @@ public class loop1 {
         System.out.println (i);
         System.out.println ("New Line code again");
         System.out.println("New Changes");
+        System.out.println("New Changes one");
     }
 }
