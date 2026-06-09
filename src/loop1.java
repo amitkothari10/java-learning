@@ -8,5 +8,6 @@ public class loop1 {
             System.out.println (i);
         }
         System.out.println (i);
+        System.out.println ("New Line code");
     }
 }
